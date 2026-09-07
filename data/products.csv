@@ -1,0 +1,27 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+PRD0001,Smartphone,Electronics,122.38,256.66
+PRD0002,Laptop,Electronics,135.77,252.23
+PRD0003,Headphones,Electronics,161.09,244.54
+PRD0004,Tablet,Electronics,146.84,382.63
+PRD0005,Smartwatch,Electronics,148.57,314.64
+PRD0006,Camera,Electronics,83.4,233.09
+PRD0007,T-Shirt,Clothing,47.42,102.69
+PRD0008,Jeans,Clothing,123.36,293.74
+PRD0009,Jacket,Clothing,43.09,99.78
+PRD0010,Sneakers,Clothing,148.76,218.68
+PRD0011,Dress,Clothing,164.78,237.5
+PRD0012,Hoodie,Clothing,69.23,98.45
+PRD0013,Cookware Set,Home & Kitchen,21.27,56.91
+PRD0014,Blender,Home & Kitchen,69.04,137.7
+PRD0015,Bedding,Home & Kitchen,45.04,100.7
+PRD0016,Lamp,Home & Kitchen,110.31,211.91
+PRD0017,Storage Box,Home & Kitchen,65.28,172.28
+PRD0018,Skincare Kit,Beauty,73.92,154.57
+PRD0019,Perfume,Beauty,56.73,141.9
+PRD0020,Makeup Set,Beauty,76.36,161.81
+PRD0021,Hair Dryer,Beauty,51.58,143.53
+PRD0022,Yoga Mat,Sports,58.14,144.12
+PRD0023,Dumbbells,Sports,81.53,137.68
+PRD0024,Running Shoes,Sports,145.55,271.75
+PRD0025,Bicycle,Sports,156.81,420.47
+PRD0026,Fitness Tracker,Sports,155.89,225.89
