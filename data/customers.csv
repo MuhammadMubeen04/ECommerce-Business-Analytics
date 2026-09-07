@@ -1,0 +1,901 @@
+CustomerID,CustomerName,Segment,Region,City,JoinDate
+CUST00001,Customer 1,Home Office,West,San Francisco,2024-01-01
+CUST00002,Customer 2,Consumer,Central,Houston,2024-05-23
+CUST00003,Customer 3,Home Office,East,Philadelphia,2024-08-25
+CUST00004,Customer 4,Home Office,South,Atlanta,2022-01-21
+CUST00005,Customer 5,Consumer,East,Boston,2021-01-22
+CUST00006,Customer 6,Consumer,East,Philadelphia,2023-12-19
+CUST00007,Customer 7,Consumer,West,San Francisco,2021-07-09
+CUST00008,Customer 8,Corporate,East,Philadelphia,2024-06-21
+CUST00009,Customer 9,Consumer,Central,Houston,2022-10-09
+CUST00010,Customer 10,Consumer,East,New York,2021-11-12
+CUST00011,Customer 11,Consumer,West,Seattle,2022-07-19
+CUST00012,Customer 12,Consumer,East,Philadelphia,2022-05-24
+CUST00013,Customer 13,Consumer,South,Miami,2023-10-23
+CUST00014,Customer 14,Consumer,West,Seattle,2022-12-04
+CUST00015,Customer 15,Consumer,South,Atlanta,2023-09-23
+CUST00016,Customer 16,Home Office,Central,Dallas,2024-06-29
+CUST00017,Customer 17,Consumer,East,New York,2021-12-04
+CUST00018,Customer 18,Corporate,West,Los Angeles,2023-02-03
+CUST00019,Customer 19,Consumer,Central,Chicago,2021-01-15
+CUST00020,Customer 20,Consumer,East,New York,2024-09-29
+CUST00021,Customer 21,Consumer,West,San Francisco,2024-03-08
+CUST00022,Customer 22,Corporate,East,Philadelphia,2021-10-16
+CUST00023,Customer 23,Home Office,Central,Dallas,2021-02-10
+CUST00024,Customer 24,Home Office,South,Atlanta,2023-11-23
+CUST00025,Customer 25,Consumer,East,New York,2021-04-09
+CUST00026,Customer 26,Consumer,Central,Houston,2023-08-19
+CUST00027,Customer 27,Home Office,West,San Francisco,2023-10-26
+CUST00028,Customer 28,Corporate,West,San Francisco,2023-03-06
+CUST00029,Customer 29,Consumer,West,Seattle,2023-06-11
+CUST00030,Customer 30,Consumer,East,Philadelphia,2024-06-18
+CUST00031,Customer 31,Consumer,West,Seattle,2022-04-30
+CUST00032,Customer 32,Consumer,East,Philadelphia,2022-06-25
+CUST00033,Customer 33,Consumer,East,Philadelphia,2024-06-20
+CUST00034,Customer 34,Home Office,East,New York,2023-10-10
+CUST00035,Customer 35,Corporate,South,Atlanta,2024-09-16
+CUST00036,Customer 36,Consumer,West,Los Angeles,2024-06-08
+CUST00037,Customer 37,Consumer,South,Charlotte,2022-09-25
+CUST00038,Customer 38,Home Office,South,Charlotte,2022-12-11
+CUST00039,Customer 39,Consumer,West,Los Angeles,2024-06-02
+CUST00040,Customer 40,Consumer,East,Philadelphia,2024-10-29
+CUST00041,Customer 41,Corporate,East,New York,2022-03-18
+CUST00042,Customer 42,Consumer,South,Atlanta,2024-02-11
+CUST00043,Customer 43,Home Office,East,Philadelphia,2021-04-23
+CUST00044,Customer 44,Consumer,South,Charlotte,2024-06-02
+CUST00045,Customer 45,Corporate,Central,Chicago,2022-12-31
+CUST00046,Customer 46,Consumer,South,Charlotte,2021-07-22
+CUST00047,Customer 47,Consumer,West,Seattle,2021-10-07
+CUST00048,Customer 48,Home Office,West,Seattle,2023-01-22
+CUST00049,Customer 49,Consumer,Central,Houston,2024-09-11
+CUST00050,Customer 50,Home Office,Central,Houston,2022-02-07
+CUST00051,Customer 51,Corporate,Central,Houston,2022-05-04
+CUST00052,Customer 52,Consumer,Central,Dallas,2023-05-22
+CUST00053,Customer 53,Consumer,East,New York,2021-05-31
+CUST00054,Customer 54,Corporate,West,San Francisco,2021-05-24
+CUST00055,Customer 55,Corporate,South,Miami,2021-01-02
+CUST00056,Customer 56,Home Office,South,Miami,2023-11-27
+CUST00057,Customer 57,Consumer,South,Miami,2024-01-28
+CUST00058,Customer 58,Home Office,Central,Dallas,2024-02-18
+CUST00059,Customer 59,Home Office,South,Miami,2021-04-14
+CUST00060,Customer 60,Consumer,Central,Dallas,2021-04-09
+CUST00061,Customer 61,Consumer,South,Atlanta,2021-12-04
+CUST00062,Customer 62,Consumer,West,Los Angeles,2021-06-10
+CUST00063,Customer 63,Consumer,East,Philadelphia,2024-05-03
+CUST00064,Customer 64,Corporate,Central,Houston,2022-04-15
+CUST00065,Customer 65,Consumer,East,Boston,2021-08-18
+CUST00066,Customer 66,Home Office,West,San Francisco,2021-01-27
+CUST00067,Customer 67,Consumer,Central,Houston,2023-08-18
+CUST00068,Customer 68,Consumer,South,Charlotte,2022-07-01
+CUST00069,Customer 69,Consumer,Central,Dallas,2022-04-22
+CUST00070,Customer 70,Home Office,East,New York,2023-11-27
+CUST00071,Customer 71,Consumer,South,Miami,2022-08-30
+CUST00072,Customer 72,Home Office,South,Charlotte,2021-09-10
+CUST00073,Customer 73,Home Office,West,San Francisco,2021-05-08
+CUST00074,Customer 74,Consumer,West,Seattle,2022-07-24
+CUST00075,Customer 75,Consumer,South,Atlanta,2024-08-04
+CUST00076,Customer 76,Consumer,Central,Houston,2021-06-04
+CUST00077,Customer 77,Consumer,West,Los Angeles,2021-09-03
+CUST00078,Customer 78,Consumer,West,San Francisco,2022-06-22
+CUST00079,Customer 79,Home Office,South,Miami,2023-04-08
+CUST00080,Customer 80,Consumer,West,Los Angeles,2021-01-20
+CUST00081,Customer 81,Corporate,Central,Dallas,2023-08-30
+CUST00082,Customer 82,Consumer,South,Atlanta,2023-04-14
+CUST00083,Customer 83,Corporate,West,San Francisco,2022-07-29
+CUST00084,Customer 84,Home Office,South,Atlanta,2024-09-27
+CUST00085,Customer 85,Consumer,East,Philadelphia,2023-12-14
+CUST00086,Customer 86,Consumer,West,Los Angeles,2023-10-01
+CUST00087,Customer 87,Consumer,South,Atlanta,2023-05-27
+CUST00088,Customer 88,Consumer,East,Philadelphia,2023-04-03
+CUST00089,Customer 89,Consumer,East,Boston,2022-09-28
+CUST00090,Customer 90,Consumer,Central,Houston,2023-12-18
+CUST00091,Customer 91,Consumer,East,New York,2023-03-02
+CUST00092,Customer 92,Corporate,West,Los Angeles,2023-12-18
+CUST00093,Customer 93,Consumer,South,Atlanta,2024-02-16
+CUST00094,Customer 94,Corporate,Central,Chicago,2023-06-16
+CUST00095,Customer 95,Corporate,South,Charlotte,2022-08-04
+CUST00096,Customer 96,Consumer,Central,Dallas,2023-09-24
+CUST00097,Customer 97,Consumer,East,New York,2023-12-07
+CUST00098,Customer 98,Home Office,East,New York,2024-05-12
+CUST00099,Customer 99,Corporate,East,New York,2022-07-05
+CUST00100,Customer 100,Consumer,West,Los Angeles,2021-01-23
+CUST00101,Customer 101,Home Office,East,Boston,2024-04-18
+CUST00102,Customer 102,Corporate,West,Seattle,2023-02-08
+CUST00103,Customer 103,Corporate,West,San Francisco,2021-09-15
+CUST00104,Customer 104,Corporate,East,Philadelphia,2023-05-02
+CUST00105,Customer 105,Consumer,West,Los Angeles,2023-08-15
+CUST00106,Customer 106,Home Office,West,San Francisco,2024-04-06
+CUST00107,Customer 107,Consumer,South,Miami,2021-01-12
+CUST00108,Customer 108,Consumer,East,Philadelphia,2023-01-24
+CUST00109,Customer 109,Consumer,Central,Chicago,2023-08-28
+CUST00110,Customer 110,Corporate,East,New York,2024-05-04
+CUST00111,Customer 111,Consumer,Central,Houston,2022-02-17
+CUST00112,Customer 112,Consumer,East,New York,2023-01-31
+CUST00113,Customer 113,Consumer,West,San Francisco,2024-01-28
+CUST00114,Customer 114,Consumer,West,San Francisco,2021-04-06
+CUST00115,Customer 115,Home Office,West,Los Angeles,2024-10-24
+CUST00116,Customer 116,Corporate,Central,Houston,2023-05-23
+CUST00117,Customer 117,Consumer,West,Los Angeles,2024-09-27
+CUST00118,Customer 118,Consumer,West,Los Angeles,2024-06-10
+CUST00119,Customer 119,Consumer,South,Atlanta,2023-01-05
+CUST00120,Customer 120,Corporate,South,Charlotte,2021-05-24
+CUST00121,Customer 121,Consumer,West,Los Angeles,2023-08-06
+CUST00122,Customer 122,Corporate,Central,Houston,2024-03-13
+CUST00123,Customer 123,Consumer,Central,Dallas,2024-04-24
+CUST00124,Customer 124,Consumer,East,New York,2024-04-01
+CUST00125,Customer 125,Consumer,South,Atlanta,2023-01-21
+CUST00126,Customer 126,Corporate,East,New York,2024-06-30
+CUST00127,Customer 127,Consumer,South,Atlanta,2023-08-04
+CUST00128,Customer 128,Consumer,South,Miami,2024-04-03
+CUST00129,Customer 129,Corporate,East,New York,2024-09-27
+CUST00130,Customer 130,Home Office,South,Miami,2024-08-17
+CUST00131,Customer 131,Consumer,Central,Houston,2022-03-21
+CUST00132,Customer 132,Corporate,West,Seattle,2021-02-08
+CUST00133,Customer 133,Consumer,West,Seattle,2024-05-28
+CUST00134,Customer 134,Corporate,West,Los Angeles,2023-06-14
+CUST00135,Customer 135,Corporate,Central,Chicago,2021-12-14
+CUST00136,Customer 136,Consumer,South,Miami,2023-04-04
+CUST00137,Customer 137,Consumer,West,Seattle,2022-11-16
+CUST00138,Customer 138,Consumer,South,Miami,2021-03-21
+CUST00139,Customer 139,Home Office,West,Los Angeles,2024-06-04
+CUST00140,Customer 140,Consumer,Central,Houston,2024-06-10
+CUST00141,Customer 141,Consumer,East,New York,2024-10-28
+CUST00142,Customer 142,Consumer,Central,Houston,2023-08-29
+CUST00143,Customer 143,Home Office,West,Seattle,2023-08-30
+CUST00144,Customer 144,Consumer,East,Boston,2024-10-03
+CUST00145,Customer 145,Consumer,Central,Dallas,2022-06-24
+CUST00146,Customer 146,Home Office,East,Philadelphia,2022-05-17
+CUST00147,Customer 147,Consumer,East,New York,2022-04-06
+CUST00148,Customer 148,Consumer,Central,Dallas,2024-06-30
+CUST00149,Customer 149,Consumer,South,Miami,2022-03-26
+CUST00150,Customer 150,Home Office,East,Philadelphia,2023-05-27
+CUST00151,Customer 151,Consumer,East,Boston,2023-12-25
+CUST00152,Customer 152,Home Office,West,San Francisco,2023-05-03
+CUST00153,Customer 153,Consumer,Central,Houston,2023-03-06
+CUST00154,Customer 154,Consumer,West,Los Angeles,2024-01-28
+CUST00155,Customer 155,Consumer,East,Philadelphia,2022-06-02
+CUST00156,Customer 156,Consumer,Central,Chicago,2023-02-10
+CUST00157,Customer 157,Corporate,West,Los Angeles,2022-12-15
+CUST00158,Customer 158,Consumer,South,Atlanta,2022-04-02
+CUST00159,Customer 159,Home Office,East,New York,2022-03-25
+CUST00160,Customer 160,Corporate,Central,Houston,2024-01-01
+CUST00161,Customer 161,Consumer,East,Boston,2021-04-28
+CUST00162,Customer 162,Consumer,South,Miami,2023-12-14
+CUST00163,Customer 163,Consumer,South,Charlotte,2022-02-05
+CUST00164,Customer 164,Consumer,East,Philadelphia,2024-06-06
+CUST00165,Customer 165,Corporate,Central,Houston,2021-04-13
+CUST00166,Customer 166,Consumer,East,Boston,2024-08-22
+CUST00167,Customer 167,Consumer,Central,Houston,2022-03-11
+CUST00168,Customer 168,Consumer,South,Atlanta,2023-09-11
+CUST00169,Customer 169,Consumer,South,Atlanta,2021-03-22
+CUST00170,Customer 170,Consumer,South,Miami,2024-09-15
+CUST00171,Customer 171,Consumer,Central,Chicago,2022-06-30
+CUST00172,Customer 172,Consumer,Central,Dallas,2021-02-12
+CUST00173,Customer 173,Consumer,East,New York,2024-04-21
+CUST00174,Customer 174,Consumer,Central,Chicago,2024-05-03
+CUST00175,Customer 175,Consumer,South,Atlanta,2021-03-02
+CUST00176,Customer 176,Consumer,East,New York,2022-08-27
+CUST00177,Customer 177,Consumer,West,Seattle,2022-10-07
+CUST00178,Customer 178,Consumer,West,Seattle,2024-01-07
+CUST00179,Customer 179,Consumer,West,Seattle,2021-09-06
+CUST00180,Customer 180,Corporate,West,Seattle,2021-04-17
+CUST00181,Customer 181,Consumer,South,Atlanta,2023-03-15
+CUST00182,Customer 182,Corporate,South,Miami,2022-12-20
+CUST00183,Customer 183,Home Office,West,Seattle,2022-04-19
+CUST00184,Customer 184,Consumer,Central,Dallas,2021-12-31
+CUST00185,Customer 185,Consumer,East,Philadelphia,2023-10-28
+CUST00186,Customer 186,Home Office,Central,Houston,2024-07-21
+CUST00187,Customer 187,Consumer,West,San Francisco,2024-04-30
+CUST00188,Customer 188,Consumer,East,Boston,2023-11-29
+CUST00189,Customer 189,Consumer,West,Seattle,2021-05-06
+CUST00190,Customer 190,Home Office,East,New York,2021-03-08
+CUST00191,Customer 191,Consumer,Central,Houston,2021-02-03
+CUST00192,Customer 192,Corporate,West,San Francisco,2022-03-01
+CUST00193,Customer 193,Home Office,West,Seattle,2021-11-11
+CUST00194,Customer 194,Corporate,South,Miami,2022-10-24
+CUST00195,Customer 195,Consumer,East,Boston,2023-04-23
+CUST00196,Customer 196,Corporate,East,Philadelphia,2024-03-06
+CUST00197,Customer 197,Consumer,East,New York,2022-07-02
+CUST00198,Customer 198,Home Office,South,Charlotte,2021-01-04
+CUST00199,Customer 199,Home Office,East,Boston,2022-05-19
+CUST00200,Customer 200,Corporate,Central,Dallas,2023-04-27
+CUST00201,Customer 201,Consumer,West,Los Angeles,2024-08-16
+CUST00202,Customer 202,Home Office,East,Philadelphia,2022-12-25
+CUST00203,Customer 203,Consumer,West,San Francisco,2021-01-01
+CUST00204,Customer 204,Consumer,Central,Chicago,2021-05-19
+CUST00205,Customer 205,Consumer,South,Charlotte,2023-06-21
+CUST00206,Customer 206,Consumer,West,San Francisco,2021-06-21
+CUST00207,Customer 207,Corporate,East,New York,2024-09-04
+CUST00208,Customer 208,Corporate,Central,Houston,2023-06-30
+CUST00209,Customer 209,Consumer,West,Seattle,2024-01-24
+CUST00210,Customer 210,Home Office,South,Atlanta,2021-11-30
+CUST00211,Customer 211,Home Office,South,Atlanta,2022-08-11
+CUST00212,Customer 212,Home Office,West,Seattle,2024-10-04
+CUST00213,Customer 213,Corporate,East,Boston,2023-03-09
+CUST00214,Customer 214,Consumer,South,Charlotte,2021-03-19
+CUST00215,Customer 215,Consumer,West,Los Angeles,2023-12-02
+CUST00216,Customer 216,Corporate,West,San Francisco,2022-09-08
+CUST00217,Customer 217,Consumer,West,Seattle,2023-11-13
+CUST00218,Customer 218,Corporate,West,Los Angeles,2024-06-02
+CUST00219,Customer 219,Consumer,West,Los Angeles,2021-04-14
+CUST00220,Customer 220,Consumer,Central,Dallas,2022-08-02
+CUST00221,Customer 221,Consumer,Central,Houston,2024-08-05
+CUST00222,Customer 222,Home Office,West,Los Angeles,2022-07-04
+CUST00223,Customer 223,Corporate,Central,Houston,2023-08-09
+CUST00224,Customer 224,Consumer,East,Boston,2022-06-01
+CUST00225,Customer 225,Consumer,South,Atlanta,2024-03-28
+CUST00226,Customer 226,Consumer,West,San Francisco,2024-03-26
+CUST00227,Customer 227,Consumer,West,Los Angeles,2021-05-10
+CUST00228,Customer 228,Corporate,East,Boston,2024-07-30
+CUST00229,Customer 229,Consumer,West,Seattle,2023-05-22
+CUST00230,Customer 230,Consumer,Central,Houston,2021-12-12
+CUST00231,Customer 231,Consumer,South,Miami,2023-08-16
+CUST00232,Customer 232,Consumer,East,Philadelphia,2023-10-01
+CUST00233,Customer 233,Corporate,West,Los Angeles,2021-05-07
+CUST00234,Customer 234,Corporate,East,Boston,2023-10-11
+CUST00235,Customer 235,Consumer,East,New York,2023-02-18
+CUST00236,Customer 236,Consumer,West,Los Angeles,2024-10-01
+CUST00237,Customer 237,Consumer,South,Miami,2023-10-22
+CUST00238,Customer 238,Consumer,South,Charlotte,2022-10-23
+CUST00239,Customer 239,Corporate,West,Seattle,2021-11-09
+CUST00240,Customer 240,Consumer,East,Philadelphia,2021-09-01
+CUST00241,Customer 241,Home Office,West,Seattle,2024-05-18
+CUST00242,Customer 242,Home Office,West,San Francisco,2023-08-13
+CUST00243,Customer 243,Consumer,West,Los Angeles,2024-04-18
+CUST00244,Customer 244,Home Office,West,Los Angeles,2021-10-12
+CUST00245,Customer 245,Corporate,Central,Dallas,2023-12-09
+CUST00246,Customer 246,Home Office,East,New York,2021-05-28
+CUST00247,Customer 247,Consumer,West,Los Angeles,2024-10-15
+CUST00248,Customer 248,Corporate,West,Los Angeles,2023-09-17
+CUST00249,Customer 249,Consumer,Central,Houston,2024-09-03
+CUST00250,Customer 250,Consumer,East,New York,2021-10-13
+CUST00251,Customer 251,Corporate,South,Miami,2022-08-13
+CUST00252,Customer 252,Consumer,Central,Dallas,2023-09-15
+CUST00253,Customer 253,Consumer,West,San Francisco,2023-04-11
+CUST00254,Customer 254,Consumer,East,Philadelphia,2023-03-11
+CUST00255,Customer 255,Home Office,East,Boston,2021-03-28
+CUST00256,Customer 256,Home Office,South,Charlotte,2024-10-04
+CUST00257,Customer 257,Corporate,West,San Francisco,2022-03-19
+CUST00258,Customer 258,Corporate,West,Los Angeles,2024-06-16
+CUST00259,Customer 259,Home Office,West,San Francisco,2024-07-11
+CUST00260,Customer 260,Consumer,East,Boston,2024-08-04
+CUST00261,Customer 261,Home Office,South,Miami,2021-07-01
+CUST00262,Customer 262,Consumer,East,Boston,2021-01-07
+CUST00263,Customer 263,Corporate,Central,Chicago,2021-05-27
+CUST00264,Customer 264,Home Office,East,New York,2022-12-01
+CUST00265,Customer 265,Home Office,Central,Chicago,2023-01-16
+CUST00266,Customer 266,Consumer,South,Charlotte,2022-01-31
+CUST00267,Customer 267,Consumer,South,Atlanta,2023-06-24
+CUST00268,Customer 268,Consumer,West,Seattle,2023-05-04
+CUST00269,Customer 269,Consumer,Central,Dallas,2022-09-24
+CUST00270,Customer 270,Consumer,South,Miami,2024-02-13
+CUST00271,Customer 271,Corporate,West,Seattle,2021-08-25
+CUST00272,Customer 272,Consumer,West,Seattle,2024-06-12
+CUST00273,Customer 273,Consumer,West,Los Angeles,2024-02-07
+CUST00274,Customer 274,Corporate,Central,Dallas,2024-03-15
+CUST00275,Customer 275,Corporate,West,Los Angeles,2023-07-23
+CUST00276,Customer 276,Consumer,East,Boston,2022-08-11
+CUST00277,Customer 277,Consumer,East,New York,2021-01-27
+CUST00278,Customer 278,Home Office,South,Atlanta,2021-09-25
+CUST00279,Customer 279,Consumer,Central,Dallas,2023-07-11
+CUST00280,Customer 280,Corporate,West,Seattle,2021-05-10
+CUST00281,Customer 281,Corporate,East,Philadelphia,2022-11-24
+CUST00282,Customer 282,Consumer,Central,Chicago,2024-08-12
+CUST00283,Customer 283,Home Office,West,San Francisco,2023-03-18
+CUST00284,Customer 284,Home Office,Central,Houston,2022-09-15
+CUST00285,Customer 285,Consumer,South,Miami,2023-01-21
+CUST00286,Customer 286,Corporate,East,Philadelphia,2023-08-16
+CUST00287,Customer 287,Consumer,South,Miami,2021-06-03
+CUST00288,Customer 288,Consumer,West,Los Angeles,2024-05-25
+CUST00289,Customer 289,Corporate,Central,Chicago,2023-11-29
+CUST00290,Customer 290,Consumer,East,Philadelphia,2021-04-12
+CUST00291,Customer 291,Consumer,Central,Houston,2023-03-28
+CUST00292,Customer 292,Home Office,East,Philadelphia,2021-01-12
+CUST00293,Customer 293,Home Office,West,San Francisco,2022-10-23
+CUST00294,Customer 294,Corporate,Central,Dallas,2024-05-08
+CUST00295,Customer 295,Consumer,East,Philadelphia,2022-05-04
+CUST00296,Customer 296,Consumer,South,Atlanta,2023-11-06
+CUST00297,Customer 297,Consumer,South,Miami,2024-01-15
+CUST00298,Customer 298,Consumer,South,Miami,2021-05-17
+CUST00299,Customer 299,Consumer,East,Philadelphia,2022-12-28
+CUST00300,Customer 300,Corporate,Central,Houston,2023-09-22
+CUST00301,Customer 301,Corporate,West,Los Angeles,2024-03-28
+CUST00302,Customer 302,Corporate,West,Los Angeles,2024-01-27
+CUST00303,Customer 303,Consumer,South,Atlanta,2021-07-02
+CUST00304,Customer 304,Corporate,West,Los Angeles,2024-10-04
+CUST00305,Customer 305,Corporate,Central,Chicago,2021-01-16
+CUST00306,Customer 306,Home Office,West,Seattle,2021-11-07
+CUST00307,Customer 307,Home Office,West,San Francisco,2023-01-29
+CUST00308,Customer 308,Consumer,East,Philadelphia,2023-11-29
+CUST00309,Customer 309,Consumer,East,New York,2022-04-22
+CUST00310,Customer 310,Consumer,East,Philadelphia,2022-01-12
+CUST00311,Customer 311,Consumer,Central,Houston,2021-12-06
+CUST00312,Customer 312,Consumer,Central,Houston,2024-03-11
+CUST00313,Customer 313,Home Office,West,Seattle,2021-10-20
+CUST00314,Customer 314,Consumer,East,Boston,2022-08-08
+CUST00315,Customer 315,Consumer,East,Philadelphia,2021-03-02
+CUST00316,Customer 316,Corporate,East,Philadelphia,2024-09-04
+CUST00317,Customer 317,Consumer,South,Miami,2021-08-14
+CUST00318,Customer 318,Home Office,East,Philadelphia,2024-08-26
+CUST00319,Customer 319,Consumer,Central,Dallas,2024-02-05
+CUST00320,Customer 320,Consumer,East,New York,2022-05-21
+CUST00321,Customer 321,Consumer,Central,Chicago,2021-02-23
+CUST00322,Customer 322,Home Office,South,Charlotte,2023-11-10
+CUST00323,Customer 323,Consumer,South,Atlanta,2022-02-23
+CUST00324,Customer 324,Corporate,Central,Houston,2021-06-09
+CUST00325,Customer 325,Corporate,West,Los Angeles,2024-01-18
+CUST00326,Customer 326,Corporate,Central,Dallas,2024-07-14
+CUST00327,Customer 327,Consumer,South,Miami,2024-05-03
+CUST00328,Customer 328,Home Office,South,Miami,2021-02-09
+CUST00329,Customer 329,Corporate,South,Atlanta,2023-09-11
+CUST00330,Customer 330,Consumer,East,Philadelphia,2024-04-14
+CUST00331,Customer 331,Consumer,West,Los Angeles,2023-03-07
+CUST00332,Customer 332,Home Office,East,New York,2021-08-12
+CUST00333,Customer 333,Home Office,West,San Francisco,2023-11-30
+CUST00334,Customer 334,Corporate,Central,Chicago,2024-08-05
+CUST00335,Customer 335,Corporate,South,Miami,2022-07-25
+CUST00336,Customer 336,Corporate,South,Charlotte,2022-07-11
+CUST00337,Customer 337,Corporate,Central,Houston,2022-02-26
+CUST00338,Customer 338,Home Office,East,New York,2023-04-06
+CUST00339,Customer 339,Home Office,West,Seattle,2022-11-03
+CUST00340,Customer 340,Corporate,West,San Francisco,2021-03-23
+CUST00341,Customer 341,Home Office,South,Miami,2021-10-22
+CUST00342,Customer 342,Consumer,East,Philadelphia,2024-02-11
+CUST00343,Customer 343,Consumer,West,Seattle,2022-12-01
+CUST00344,Customer 344,Corporate,East,Boston,2022-04-12
+CUST00345,Customer 345,Consumer,Central,Dallas,2022-07-26
+CUST00346,Customer 346,Corporate,East,Boston,2024-05-04
+CUST00347,Customer 347,Corporate,East,Philadelphia,2021-07-11
+CUST00348,Customer 348,Consumer,Central,Dallas,2023-06-05
+CUST00349,Customer 349,Corporate,West,San Francisco,2021-07-29
+CUST00350,Customer 350,Home Office,South,Miami,2022-12-17
+CUST00351,Customer 351,Consumer,Central,Chicago,2022-04-05
+CUST00352,Customer 352,Consumer,East,Boston,2023-05-29
+CUST00353,Customer 353,Corporate,West,Seattle,2023-01-08
+CUST00354,Customer 354,Consumer,South,Miami,2021-02-08
+CUST00355,Customer 355,Corporate,West,San Francisco,2023-06-03
+CUST00356,Customer 356,Corporate,South,Atlanta,2023-04-29
+CUST00357,Customer 357,Consumer,South,Miami,2021-01-21
+CUST00358,Customer 358,Home Office,South,Atlanta,2024-07-04
+CUST00359,Customer 359,Corporate,West,Seattle,2024-04-01
+CUST00360,Customer 360,Corporate,East,Boston,2024-07-18
+CUST00361,Customer 361,Consumer,West,Seattle,2023-09-12
+CUST00362,Customer 362,Corporate,South,Charlotte,2023-11-17
+CUST00363,Customer 363,Corporate,South,Charlotte,2021-12-15
+CUST00364,Customer 364,Consumer,East,Boston,2023-06-18
+CUST00365,Customer 365,Consumer,East,Boston,2021-07-25
+CUST00366,Customer 366,Corporate,Central,Chicago,2023-10-14
+CUST00367,Customer 367,Corporate,East,New York,2021-04-27
+CUST00368,Customer 368,Consumer,Central,Chicago,2022-12-22
+CUST00369,Customer 369,Consumer,East,Boston,2024-10-21
+CUST00370,Customer 370,Corporate,South,Charlotte,2024-08-17
+CUST00371,Customer 371,Home Office,Central,Chicago,2023-02-18
+CUST00372,Customer 372,Consumer,West,Los Angeles,2022-08-11
+CUST00373,Customer 373,Consumer,South,Atlanta,2024-01-15
+CUST00374,Customer 374,Consumer,East,Boston,2021-01-02
+CUST00375,Customer 375,Home Office,West,Seattle,2022-08-12
+CUST00376,Customer 376,Consumer,East,Boston,2024-04-04
+CUST00377,Customer 377,Corporate,West,Seattle,2021-05-23
+CUST00378,Customer 378,Consumer,East,New York,2021-11-13
+CUST00379,Customer 379,Consumer,Central,Dallas,2024-01-02
+CUST00380,Customer 380,Consumer,East,Boston,2022-12-17
+CUST00381,Customer 381,Corporate,South,Atlanta,2024-01-13
+CUST00382,Customer 382,Corporate,West,San Francisco,2022-04-04
+CUST00383,Customer 383,Consumer,South,Atlanta,2021-01-22
+CUST00384,Customer 384,Corporate,West,Los Angeles,2023-05-24
+CUST00385,Customer 385,Corporate,West,San Francisco,2023-06-28
+CUST00386,Customer 386,Corporate,West,San Francisco,2023-01-20
+CUST00387,Customer 387,Consumer,West,San Francisco,2021-11-05
+CUST00388,Customer 388,Consumer,Central,Dallas,2023-07-03
+CUST00389,Customer 389,Consumer,Central,Chicago,2023-12-19
+CUST00390,Customer 390,Consumer,Central,Houston,2022-03-21
+CUST00391,Customer 391,Consumer,East,New York,2023-06-22
+CUST00392,Customer 392,Home Office,West,San Francisco,2023-08-15
+CUST00393,Customer 393,Corporate,South,Atlanta,2022-06-16
+CUST00394,Customer 394,Consumer,West,San Francisco,2022-08-31
+CUST00395,Customer 395,Consumer,Central,Dallas,2022-08-01
+CUST00396,Customer 396,Corporate,Central,Houston,2023-01-25
+CUST00397,Customer 397,Home Office,Central,Houston,2024-06-14
+CUST00398,Customer 398,Home Office,West,Los Angeles,2023-05-17
+CUST00399,Customer 399,Consumer,Central,Dallas,2024-08-14
+CUST00400,Customer 400,Home Office,East,Philadelphia,2021-10-20
+CUST00401,Customer 401,Consumer,South,Atlanta,2022-01-16
+CUST00402,Customer 402,Consumer,West,Los Angeles,2024-01-13
+CUST00403,Customer 403,Consumer,Central,Houston,2021-01-28
+CUST00404,Customer 404,Corporate,East,Philadelphia,2022-04-05
+CUST00405,Customer 405,Home Office,East,Philadelphia,2021-10-14
+CUST00406,Customer 406,Consumer,East,Boston,2022-08-15
+CUST00407,Customer 407,Consumer,West,Seattle,2024-10-16
+CUST00408,Customer 408,Consumer,West,San Francisco,2023-08-30
+CUST00409,Customer 409,Consumer,Central,Chicago,2024-02-05
+CUST00410,Customer 410,Corporate,Central,Chicago,2021-11-01
+CUST00411,Customer 411,Corporate,South,Charlotte,2022-09-12
+CUST00412,Customer 412,Consumer,West,Seattle,2023-08-27
+CUST00413,Customer 413,Home Office,West,Los Angeles,2023-10-22
+CUST00414,Customer 414,Consumer,East,New York,2023-12-19
+CUST00415,Customer 415,Consumer,West,Seattle,2023-11-02
+CUST00416,Customer 416,Home Office,East,Philadelphia,2021-05-06
+CUST00417,Customer 417,Corporate,South,Miami,2023-11-29
+CUST00418,Customer 418,Consumer,West,Seattle,2023-07-08
+CUST00419,Customer 419,Consumer,Central,Dallas,2021-11-04
+CUST00420,Customer 420,Consumer,Central,Houston,2023-10-29
+CUST00421,Customer 421,Consumer,South,Miami,2024-10-07
+CUST00422,Customer 422,Home Office,East,Philadelphia,2024-05-01
+CUST00423,Customer 423,Home Office,South,Atlanta,2021-04-24
+CUST00424,Customer 424,Home Office,East,Philadelphia,2023-01-14
+CUST00425,Customer 425,Consumer,Central,Chicago,2023-03-25
+CUST00426,Customer 426,Corporate,South,Charlotte,2023-12-13
+CUST00427,Customer 427,Corporate,Central,Dallas,2024-05-28
+CUST00428,Customer 428,Corporate,East,Philadelphia,2024-03-30
+CUST00429,Customer 429,Home Office,West,Los Angeles,2022-08-12
+CUST00430,Customer 430,Consumer,West,Seattle,2024-01-31
+CUST00431,Customer 431,Corporate,West,Seattle,2022-02-01
+CUST00432,Customer 432,Consumer,Central,Houston,2024-09-29
+CUST00433,Customer 433,Corporate,West,Los Angeles,2023-12-25
+CUST00434,Customer 434,Consumer,West,Los Angeles,2023-04-08
+CUST00435,Customer 435,Corporate,West,Los Angeles,2021-10-18
+CUST00436,Customer 436,Consumer,East,Philadelphia,2023-08-26
+CUST00437,Customer 437,Corporate,Central,Dallas,2023-10-24
+CUST00438,Customer 438,Home Office,West,Seattle,2022-03-30
+CUST00439,Customer 439,Corporate,South,Miami,2021-01-12
+CUST00440,Customer 440,Consumer,East,Philadelphia,2024-08-16
+CUST00441,Customer 441,Consumer,West,San Francisco,2024-09-11
+CUST00442,Customer 442,Corporate,Central,Houston,2023-10-02
+CUST00443,Customer 443,Consumer,South,Charlotte,2024-02-15
+CUST00444,Customer 444,Consumer,South,Charlotte,2021-02-20
+CUST00445,Customer 445,Home Office,East,Boston,2023-02-26
+CUST00446,Customer 446,Consumer,East,New York,2022-05-09
+CUST00447,Customer 447,Corporate,West,San Francisco,2024-03-13
+CUST00448,Customer 448,Corporate,East,Boston,2022-08-12
+CUST00449,Customer 449,Consumer,West,San Francisco,2024-07-10
+CUST00450,Customer 450,Consumer,Central,Chicago,2021-06-08
+CUST00451,Customer 451,Consumer,Central,Dallas,2022-03-21
+CUST00452,Customer 452,Home Office,East,Boston,2024-04-10
+CUST00453,Customer 453,Corporate,East,Philadelphia,2021-05-21
+CUST00454,Customer 454,Corporate,Central,Dallas,2024-05-28
+CUST00455,Customer 455,Consumer,East,Boston,2023-09-11
+CUST00456,Customer 456,Home Office,West,Los Angeles,2024-03-23
+CUST00457,Customer 457,Consumer,East,Philadelphia,2023-12-20
+CUST00458,Customer 458,Corporate,Central,Houston,2023-09-20
+CUST00459,Customer 459,Consumer,West,Los Angeles,2022-04-28
+CUST00460,Customer 460,Consumer,South,Miami,2022-10-24
+CUST00461,Customer 461,Corporate,East,Philadelphia,2024-03-29
+CUST00462,Customer 462,Consumer,Central,Chicago,2022-05-24
+CUST00463,Customer 463,Consumer,East,Philadelphia,2021-09-20
+CUST00464,Customer 464,Consumer,Central,Dallas,2022-09-29
+CUST00465,Customer 465,Corporate,Central,Houston,2024-07-27
+CUST00466,Customer 466,Consumer,East,Boston,2024-01-31
+CUST00467,Customer 467,Consumer,West,Seattle,2021-02-05
+CUST00468,Customer 468,Home Office,East,Philadelphia,2021-03-14
+CUST00469,Customer 469,Consumer,West,Los Angeles,2023-09-26
+CUST00470,Customer 470,Consumer,East,Boston,2023-08-14
+CUST00471,Customer 471,Consumer,South,Miami,2023-02-15
+CUST00472,Customer 472,Corporate,South,Atlanta,2022-01-16
+CUST00473,Customer 473,Consumer,West,Seattle,2022-12-28
+CUST00474,Customer 474,Consumer,West,San Francisco,2021-12-20
+CUST00475,Customer 475,Consumer,West,Seattle,2022-03-29
+CUST00476,Customer 476,Corporate,East,New York,2021-11-07
+CUST00477,Customer 477,Consumer,West,Los Angeles,2021-02-24
+CUST00478,Customer 478,Consumer,Central,Houston,2021-08-25
+CUST00479,Customer 479,Home Office,East,Boston,2024-06-25
+CUST00480,Customer 480,Home Office,West,Los Angeles,2024-01-13
+CUST00481,Customer 481,Consumer,Central,Houston,2023-03-11
+CUST00482,Customer 482,Corporate,East,Boston,2023-01-08
+CUST00483,Customer 483,Consumer,East,Philadelphia,2021-04-24
+CUST00484,Customer 484,Consumer,West,Seattle,2023-01-31
+CUST00485,Customer 485,Consumer,West,Seattle,2024-05-04
+CUST00486,Customer 486,Consumer,South,Atlanta,2021-05-23
+CUST00487,Customer 487,Home Office,South,Atlanta,2021-01-12
+CUST00488,Customer 488,Consumer,South,Atlanta,2024-03-27
+CUST00489,Customer 489,Home Office,South,Atlanta,2023-12-27
+CUST00490,Customer 490,Consumer,Central,Chicago,2022-02-03
+CUST00491,Customer 491,Consumer,West,Seattle,2023-07-20
+CUST00492,Customer 492,Home Office,West,Seattle,2023-03-04
+CUST00493,Customer 493,Consumer,West,San Francisco,2023-04-13
+CUST00494,Customer 494,Corporate,Central,Chicago,2023-06-18
+CUST00495,Customer 495,Corporate,South,Miami,2024-02-15
+CUST00496,Customer 496,Consumer,East,New York,2024-01-08
+CUST00497,Customer 497,Consumer,South,Miami,2022-06-27
+CUST00498,Customer 498,Consumer,West,San Francisco,2022-01-25
+CUST00499,Customer 499,Consumer,East,Boston,2023-12-20
+CUST00500,Customer 500,Consumer,West,Los Angeles,2023-02-17
+CUST00501,Customer 501,Consumer,East,Boston,2024-06-30
+CUST00502,Customer 502,Consumer,Central,Houston,2021-03-24
+CUST00503,Customer 503,Consumer,East,Boston,2023-06-02
+CUST00504,Customer 504,Corporate,East,New York,2024-07-07
+CUST00505,Customer 505,Consumer,Central,Chicago,2024-10-14
+CUST00506,Customer 506,Consumer,East,Boston,2024-06-08
+CUST00507,Customer 507,Corporate,Central,Houston,2023-02-07
+CUST00508,Customer 508,Consumer,East,Boston,2022-03-31
+CUST00509,Customer 509,Corporate,Central,Dallas,2024-04-21
+CUST00510,Customer 510,Consumer,West,Seattle,2023-01-12
+CUST00511,Customer 511,Corporate,East,Boston,2023-06-20
+CUST00512,Customer 512,Consumer,East,Boston,2022-05-08
+CUST00513,Customer 513,Corporate,South,Miami,2022-11-03
+CUST00514,Customer 514,Consumer,West,San Francisco,2022-12-04
+CUST00515,Customer 515,Consumer,West,Los Angeles,2022-05-25
+CUST00516,Customer 516,Consumer,East,Boston,2023-01-14
+CUST00517,Customer 517,Corporate,South,Miami,2022-07-08
+CUST00518,Customer 518,Home Office,Central,Chicago,2021-07-11
+CUST00519,Customer 519,Consumer,Central,Chicago,2024-02-28
+CUST00520,Customer 520,Consumer,West,Seattle,2021-08-30
+CUST00521,Customer 521,Home Office,East,New York,2024-07-31
+CUST00522,Customer 522,Corporate,Central,Houston,2022-12-27
+CUST00523,Customer 523,Corporate,Central,Houston,2023-05-06
+CUST00524,Customer 524,Consumer,South,Miami,2021-03-28
+CUST00525,Customer 525,Consumer,Central,Chicago,2021-03-28
+CUST00526,Customer 526,Consumer,Central,Houston,2022-10-26
+CUST00527,Customer 527,Consumer,East,Boston,2022-01-01
+CUST00528,Customer 528,Home Office,South,Charlotte,2022-05-14
+CUST00529,Customer 529,Consumer,East,New York,2023-02-12
+CUST00530,Customer 530,Corporate,Central,Dallas,2023-09-19
+CUST00531,Customer 531,Home Office,West,Los Angeles,2021-11-25
+CUST00532,Customer 532,Consumer,West,Los Angeles,2023-04-16
+CUST00533,Customer 533,Corporate,Central,Dallas,2021-04-29
+CUST00534,Customer 534,Home Office,East,New York,2022-10-14
+CUST00535,Customer 535,Consumer,West,Los Angeles,2021-06-09
+CUST00536,Customer 536,Corporate,Central,Dallas,2022-06-07
+CUST00537,Customer 537,Consumer,East,Boston,2021-07-02
+CUST00538,Customer 538,Consumer,East,Boston,2021-05-04
+CUST00539,Customer 539,Consumer,West,Seattle,2024-04-10
+CUST00540,Customer 540,Home Office,East,New York,2021-05-02
+CUST00541,Customer 541,Home Office,South,Miami,2023-02-19
+CUST00542,Customer 542,Consumer,South,Miami,2023-10-19
+CUST00543,Customer 543,Home Office,West,Seattle,2022-10-09
+CUST00544,Customer 544,Consumer,East,Boston,2022-10-24
+CUST00545,Customer 545,Home Office,South,Miami,2023-02-09
+CUST00546,Customer 546,Corporate,East,Philadelphia,2021-03-29
+CUST00547,Customer 547,Consumer,West,Los Angeles,2024-10-08
+CUST00548,Customer 548,Consumer,West,San Francisco,2021-01-23
+CUST00549,Customer 549,Home Office,Central,Houston,2024-07-28
+CUST00550,Customer 550,Consumer,Central,Dallas,2024-04-24
+CUST00551,Customer 551,Consumer,East,New York,2022-05-30
+CUST00552,Customer 552,Consumer,South,Atlanta,2022-04-18
+CUST00553,Customer 553,Corporate,West,San Francisco,2023-07-12
+CUST00554,Customer 554,Consumer,Central,Chicago,2022-05-15
+CUST00555,Customer 555,Home Office,West,Seattle,2022-07-20
+CUST00556,Customer 556,Consumer,South,Miami,2023-11-10
+CUST00557,Customer 557,Consumer,West,San Francisco,2023-12-30
+CUST00558,Customer 558,Home Office,South,Charlotte,2024-03-01
+CUST00559,Customer 559,Home Office,Central,Houston,2024-03-23
+CUST00560,Customer 560,Consumer,West,San Francisco,2022-02-09
+CUST00561,Customer 561,Consumer,East,New York,2023-07-30
+CUST00562,Customer 562,Corporate,East,New York,2022-06-10
+CUST00563,Customer 563,Consumer,Central,Dallas,2023-12-15
+CUST00564,Customer 564,Consumer,Central,Dallas,2022-08-17
+CUST00565,Customer 565,Consumer,Central,Houston,2024-09-04
+CUST00566,Customer 566,Consumer,East,New York,2024-01-05
+CUST00567,Customer 567,Corporate,Central,Houston,2023-05-18
+CUST00568,Customer 568,Consumer,West,Seattle,2021-07-02
+CUST00569,Customer 569,Consumer,Central,Houston,2024-02-11
+CUST00570,Customer 570,Corporate,Central,Houston,2023-10-17
+CUST00571,Customer 571,Consumer,West,Seattle,2024-07-07
+CUST00572,Customer 572,Consumer,West,San Francisco,2021-03-19
+CUST00573,Customer 573,Corporate,Central,Dallas,2023-04-17
+CUST00574,Customer 574,Consumer,East,Boston,2023-08-31
+CUST00575,Customer 575,Corporate,Central,Dallas,2022-12-11
+CUST00576,Customer 576,Consumer,West,Los Angeles,2022-07-01
+CUST00577,Customer 577,Home Office,West,Los Angeles,2021-02-18
+CUST00578,Customer 578,Home Office,West,Seattle,2024-07-07
+CUST00579,Customer 579,Home Office,East,Philadelphia,2022-10-03
+CUST00580,Customer 580,Consumer,Central,Chicago,2024-04-20
+CUST00581,Customer 581,Consumer,East,New York,2023-09-12
+CUST00582,Customer 582,Consumer,South,Atlanta,2022-02-18
+CUST00583,Customer 583,Consumer,East,Philadelphia,2024-05-28
+CUST00584,Customer 584,Home Office,Central,Dallas,2021-07-24
+CUST00585,Customer 585,Consumer,East,Philadelphia,2022-08-19
+CUST00586,Customer 586,Corporate,Central,Chicago,2021-07-15
+CUST00587,Customer 587,Corporate,West,Seattle,2022-10-01
+CUST00588,Customer 588,Corporate,East,Philadelphia,2024-03-17
+CUST00589,Customer 589,Home Office,East,New York,2022-05-07
+CUST00590,Customer 590,Corporate,Central,Chicago,2021-11-10
+CUST00591,Customer 591,Consumer,South,Charlotte,2023-09-11
+CUST00592,Customer 592,Consumer,West,Los Angeles,2022-01-19
+CUST00593,Customer 593,Consumer,South,Miami,2024-04-16
+CUST00594,Customer 594,Consumer,Central,Chicago,2021-11-23
+CUST00595,Customer 595,Consumer,Central,Chicago,2022-07-27
+CUST00596,Customer 596,Corporate,South,Miami,2022-02-27
+CUST00597,Customer 597,Consumer,Central,Dallas,2021-07-17
+CUST00598,Customer 598,Consumer,South,Miami,2021-01-22
+CUST00599,Customer 599,Corporate,South,Atlanta,2024-03-13
+CUST00600,Customer 600,Corporate,West,Seattle,2022-08-11
+CUST00601,Customer 601,Consumer,East,Philadelphia,2022-09-03
+CUST00602,Customer 602,Corporate,East,Philadelphia,2021-10-04
+CUST00603,Customer 603,Consumer,East,Boston,2023-06-03
+CUST00604,Customer 604,Consumer,West,Los Angeles,2021-03-20
+CUST00605,Customer 605,Home Office,South,Charlotte,2023-09-28
+CUST00606,Customer 606,Corporate,West,Los Angeles,2022-03-23
+CUST00607,Customer 607,Consumer,West,San Francisco,2023-12-04
+CUST00608,Customer 608,Consumer,West,Seattle,2022-11-10
+CUST00609,Customer 609,Corporate,Central,Dallas,2022-12-10
+CUST00610,Customer 610,Consumer,South,Atlanta,2021-01-08
+CUST00611,Customer 611,Corporate,West,Los Angeles,2024-01-01
+CUST00612,Customer 612,Consumer,Central,Dallas,2024-02-02
+CUST00613,Customer 613,Consumer,West,Seattle,2024-07-15
+CUST00614,Customer 614,Corporate,East,New York,2021-09-16
+CUST00615,Customer 615,Consumer,South,Atlanta,2023-07-18
+CUST00616,Customer 616,Consumer,Central,Chicago,2023-07-17
+CUST00617,Customer 617,Consumer,Central,Dallas,2023-08-24
+CUST00618,Customer 618,Home Office,South,Miami,2023-03-25
+CUST00619,Customer 619,Home Office,West,Los Angeles,2023-10-10
+CUST00620,Customer 620,Corporate,Central,Dallas,2021-09-04
+CUST00621,Customer 621,Corporate,East,Philadelphia,2021-12-19
+CUST00622,Customer 622,Corporate,East,Boston,2023-10-19
+CUST00623,Customer 623,Consumer,Central,Chicago,2021-09-22
+CUST00624,Customer 624,Consumer,South,Charlotte,2023-08-01
+CUST00625,Customer 625,Consumer,Central,Dallas,2023-09-09
+CUST00626,Customer 626,Consumer,South,Atlanta,2024-07-24
+CUST00627,Customer 627,Consumer,East,New York,2023-09-08
+CUST00628,Customer 628,Home Office,West,San Francisco,2023-08-01
+CUST00629,Customer 629,Corporate,East,Philadelphia,2024-04-14
+CUST00630,Customer 630,Corporate,West,San Francisco,2023-05-12
+CUST00631,Customer 631,Corporate,South,Miami,2021-09-29
+CUST00632,Customer 632,Consumer,East,Philadelphia,2022-03-30
+CUST00633,Customer 633,Consumer,South,Charlotte,2023-05-05
+CUST00634,Customer 634,Consumer,East,Boston,2021-05-23
+CUST00635,Customer 635,Consumer,East,New York,2023-08-07
+CUST00636,Customer 636,Home Office,Central,Chicago,2022-07-05
+CUST00637,Customer 637,Consumer,South,Charlotte,2021-07-29
+CUST00638,Customer 638,Home Office,Central,Houston,2022-02-11
+CUST00639,Customer 639,Consumer,East,Boston,2022-07-04
+CUST00640,Customer 640,Consumer,East,Boston,2022-08-19
+CUST00641,Customer 641,Consumer,East,Boston,2021-06-03
+CUST00642,Customer 642,Consumer,South,Miami,2021-03-24
+CUST00643,Customer 643,Corporate,South,Charlotte,2021-10-11
+CUST00644,Customer 644,Home Office,East,Philadelphia,2024-01-02
+CUST00645,Customer 645,Corporate,West,San Francisco,2023-08-01
+CUST00646,Customer 646,Consumer,West,Los Angeles,2022-11-07
+CUST00647,Customer 647,Consumer,East,New York,2024-10-31
+CUST00648,Customer 648,Corporate,West,Los Angeles,2023-09-28
+CUST00649,Customer 649,Corporate,West,San Francisco,2021-03-09
+CUST00650,Customer 650,Home Office,South,Miami,2024-02-25
+CUST00651,Customer 651,Consumer,Central,Dallas,2023-05-31
+CUST00652,Customer 652,Consumer,West,San Francisco,2022-05-09
+CUST00653,Customer 653,Consumer,South,Miami,2024-08-20
+CUST00654,Customer 654,Corporate,South,Miami,2023-10-10
+CUST00655,Customer 655,Home Office,East,Philadelphia,2023-09-04
+CUST00656,Customer 656,Home Office,East,New York,2021-12-09
+CUST00657,Customer 657,Consumer,West,Seattle,2022-07-13
+CUST00658,Customer 658,Consumer,East,New York,2022-02-10
+CUST00659,Customer 659,Corporate,Central,Chicago,2021-06-28
+CUST00660,Customer 660,Consumer,East,Boston,2021-03-17
+CUST00661,Customer 661,Corporate,West,Seattle,2024-03-31
+CUST00662,Customer 662,Home Office,West,San Francisco,2024-07-09
+CUST00663,Customer 663,Consumer,South,Miami,2023-02-19
+CUST00664,Customer 664,Home Office,Central,Houston,2021-12-28
+CUST00665,Customer 665,Consumer,South,Miami,2023-05-17
+CUST00666,Customer 666,Corporate,East,New York,2022-10-15
+CUST00667,Customer 667,Home Office,West,Los Angeles,2024-04-28
+CUST00668,Customer 668,Home Office,South,Miami,2022-08-25
+CUST00669,Customer 669,Consumer,West,Seattle,2022-09-10
+CUST00670,Customer 670,Home Office,West,Los Angeles,2024-09-29
+CUST00671,Customer 671,Corporate,East,New York,2023-03-30
+CUST00672,Customer 672,Corporate,South,Charlotte,2022-02-01
+CUST00673,Customer 673,Consumer,Central,Houston,2024-09-18
+CUST00674,Customer 674,Consumer,South,Charlotte,2024-09-17
+CUST00675,Customer 675,Corporate,South,Miami,2024-07-15
+CUST00676,Customer 676,Consumer,Central,Dallas,2021-04-13
+CUST00677,Customer 677,Corporate,South,Miami,2023-05-09
+CUST00678,Customer 678,Corporate,East,Philadelphia,2022-12-28
+CUST00679,Customer 679,Home Office,East,Boston,2024-09-09
+CUST00680,Customer 680,Consumer,West,Seattle,2022-04-30
+CUST00681,Customer 681,Consumer,East,New York,2021-11-28
+CUST00682,Customer 682,Consumer,East,Philadelphia,2023-08-17
+CUST00683,Customer 683,Corporate,Central,Houston,2024-07-13
+CUST00684,Customer 684,Consumer,West,Los Angeles,2023-02-10
+CUST00685,Customer 685,Consumer,Central,Dallas,2022-01-22
+CUST00686,Customer 686,Consumer,West,Los Angeles,2021-09-25
+CUST00687,Customer 687,Consumer,West,Los Angeles,2023-09-13
+CUST00688,Customer 688,Corporate,South,Charlotte,2021-08-11
+CUST00689,Customer 689,Corporate,West,Seattle,2021-10-04
+CUST00690,Customer 690,Consumer,Central,Houston,2022-01-10
+CUST00691,Customer 691,Home Office,West,Seattle,2024-04-26
+CUST00692,Customer 692,Consumer,East,Philadelphia,2024-03-25
+CUST00693,Customer 693,Corporate,West,San Francisco,2021-12-26
+CUST00694,Customer 694,Consumer,South,Charlotte,2024-02-16
+CUST00695,Customer 695,Corporate,Central,Houston,2024-08-06
+CUST00696,Customer 696,Consumer,East,New York,2023-04-13
+CUST00697,Customer 697,Consumer,West,Los Angeles,2024-05-10
+CUST00698,Customer 698,Corporate,Central,Houston,2023-10-04
+CUST00699,Customer 699,Consumer,East,New York,2023-05-31
+CUST00700,Customer 700,Corporate,Central,Dallas,2024-05-12
+CUST00701,Customer 701,Consumer,West,Los Angeles,2023-04-17
+CUST00702,Customer 702,Home Office,East,Philadelphia,2021-03-16
+CUST00703,Customer 703,Consumer,East,Boston,2021-12-29
+CUST00704,Customer 704,Consumer,West,Seattle,2021-09-19
+CUST00705,Customer 705,Consumer,Central,Dallas,2022-04-30
+CUST00706,Customer 706,Consumer,South,Miami,2023-11-25
+CUST00707,Customer 707,Corporate,South,Miami,2022-01-04
+CUST00708,Customer 708,Corporate,East,Boston,2021-04-19
+CUST00709,Customer 709,Corporate,South,Miami,2024-04-03
+CUST00710,Customer 710,Consumer,West,Los Angeles,2023-04-01
+CUST00711,Customer 711,Consumer,South,Atlanta,2024-10-09
+CUST00712,Customer 712,Consumer,East,New York,2021-12-07
+CUST00713,Customer 713,Consumer,West,San Francisco,2021-12-25
+CUST00714,Customer 714,Consumer,West,San Francisco,2024-07-27
+CUST00715,Customer 715,Consumer,South,Atlanta,2021-05-19
+CUST00716,Customer 716,Corporate,East,Philadelphia,2021-04-14
+CUST00717,Customer 717,Corporate,West,San Francisco,2021-06-14
+CUST00718,Customer 718,Consumer,Central,Chicago,2022-10-19
+CUST00719,Customer 719,Home Office,Central,Houston,2021-03-05
+CUST00720,Customer 720,Corporate,Central,Dallas,2024-03-09
+CUST00721,Customer 721,Corporate,East,Philadelphia,2022-04-21
+CUST00722,Customer 722,Corporate,East,New York,2022-07-12
+CUST00723,Customer 723,Home Office,East,Philadelphia,2021-05-27
+CUST00724,Customer 724,Consumer,West,Seattle,2023-10-20
+CUST00725,Customer 725,Consumer,West,San Francisco,2024-05-24
+CUST00726,Customer 726,Corporate,West,Los Angeles,2022-05-14
+CUST00727,Customer 727,Home Office,West,Seattle,2021-03-23
+CUST00728,Customer 728,Corporate,West,San Francisco,2023-02-11
+CUST00729,Customer 729,Consumer,South,Charlotte,2024-09-14
+CUST00730,Customer 730,Consumer,East,New York,2023-05-31
+CUST00731,Customer 731,Consumer,West,San Francisco,2024-09-08
+CUST00732,Customer 732,Consumer,West,Seattle,2021-10-14
+CUST00733,Customer 733,Corporate,Central,Dallas,2024-10-04
+CUST00734,Customer 734,Home Office,East,Boston,2021-11-16
+CUST00735,Customer 735,Consumer,West,Seattle,2022-11-27
+CUST00736,Customer 736,Corporate,West,San Francisco,2021-01-19
+CUST00737,Customer 737,Home Office,East,Philadelphia,2022-06-26
+CUST00738,Customer 738,Corporate,East,New York,2021-01-01
+CUST00739,Customer 739,Consumer,East,New York,2021-07-07
+CUST00740,Customer 740,Corporate,Central,Houston,2021-07-13
+CUST00741,Customer 741,Consumer,East,Boston,2023-07-31
+CUST00742,Customer 742,Corporate,West,San Francisco,2024-10-13
+CUST00743,Customer 743,Consumer,West,Seattle,2021-07-07
+CUST00744,Customer 744,Corporate,West,Los Angeles,2021-03-24
+CUST00745,Customer 745,Consumer,West,Los Angeles,2022-01-10
+CUST00746,Customer 746,Consumer,South,Atlanta,2024-04-26
+CUST00747,Customer 747,Corporate,East,Philadelphia,2022-05-23
+CUST00748,Customer 748,Consumer,South,Charlotte,2023-09-01
+CUST00749,Customer 749,Consumer,East,Boston,2023-01-03
+CUST00750,Customer 750,Home Office,Central,Chicago,2024-06-10
+CUST00751,Customer 751,Consumer,East,Philadelphia,2023-12-13
+CUST00752,Customer 752,Corporate,West,San Francisco,2021-12-03
+CUST00753,Customer 753,Home Office,Central,Dallas,2023-10-31
+CUST00754,Customer 754,Corporate,South,Atlanta,2023-11-04
+CUST00755,Customer 755,Consumer,West,Los Angeles,2022-02-12
+CUST00756,Customer 756,Corporate,West,Los Angeles,2023-12-19
+CUST00757,Customer 757,Consumer,Central,Houston,2024-08-06
+CUST00758,Customer 758,Corporate,East,Philadelphia,2023-05-23
+CUST00759,Customer 759,Consumer,Central,Houston,2024-06-18
+CUST00760,Customer 760,Consumer,West,Seattle,2021-10-21
+CUST00761,Customer 761,Corporate,South,Miami,2022-01-25
+CUST00762,Customer 762,Corporate,East,New York,2022-10-30
+CUST00763,Customer 763,Consumer,East,Philadelphia,2021-05-17
+CUST00764,Customer 764,Consumer,South,Atlanta,2023-06-30
+CUST00765,Customer 765,Consumer,South,Atlanta,2022-09-16
+CUST00766,Customer 766,Corporate,South,Miami,2022-04-16
+CUST00767,Customer 767,Consumer,West,San Francisco,2022-09-24
+CUST00768,Customer 768,Consumer,Central,Chicago,2021-08-23
+CUST00769,Customer 769,Home Office,Central,Houston,2022-03-07
+CUST00770,Customer 770,Consumer,South,Charlotte,2024-08-09
+CUST00771,Customer 771,Consumer,East,Philadelphia,2022-06-24
+CUST00772,Customer 772,Consumer,South,Atlanta,2021-08-15
+CUST00773,Customer 773,Consumer,West,Los Angeles,2023-11-03
+CUST00774,Customer 774,Corporate,West,San Francisco,2023-06-17
+CUST00775,Customer 775,Corporate,East,Philadelphia,2023-08-10
+CUST00776,Customer 776,Corporate,Central,Houston,2024-04-11
+CUST00777,Customer 777,Consumer,East,Philadelphia,2021-10-01
+CUST00778,Customer 778,Home Office,Central,Chicago,2022-06-24
+CUST00779,Customer 779,Consumer,Central,Chicago,2024-06-29
+CUST00780,Customer 780,Corporate,East,New York,2021-04-28
+CUST00781,Customer 781,Consumer,Central,Houston,2021-02-22
+CUST00782,Customer 782,Consumer,Central,Dallas,2023-05-18
+CUST00783,Customer 783,Consumer,South,Charlotte,2021-04-21
+CUST00784,Customer 784,Home Office,West,Los Angeles,2021-06-20
+CUST00785,Customer 785,Consumer,South,Atlanta,2021-08-18
+CUST00786,Customer 786,Consumer,Central,Houston,2022-04-10
+CUST00787,Customer 787,Home Office,West,San Francisco,2021-06-24
+CUST00788,Customer 788,Consumer,South,Atlanta,2022-10-27
+CUST00789,Customer 789,Consumer,Central,Chicago,2021-01-12
+CUST00790,Customer 790,Consumer,East,New York,2024-06-05
+CUST00791,Customer 791,Consumer,South,Charlotte,2023-02-15
+CUST00792,Customer 792,Corporate,Central,Chicago,2024-05-22
+CUST00793,Customer 793,Home Office,East,New York,2022-05-04
+CUST00794,Customer 794,Corporate,South,Miami,2024-01-08
+CUST00795,Customer 795,Corporate,East,Boston,2024-02-02
+CUST00796,Customer 796,Corporate,South,Atlanta,2024-09-16
+CUST00797,Customer 797,Consumer,South,Miami,2024-01-19
+CUST00798,Customer 798,Consumer,East,Boston,2023-11-15
+CUST00799,Customer 799,Corporate,Central,Houston,2022-04-06
+CUST00800,Customer 800,Corporate,South,Charlotte,2023-05-13
+CUST00801,Customer 801,Consumer,Central,Chicago,2022-07-18
+CUST00802,Customer 802,Corporate,West,Los Angeles,2022-07-13
+CUST00803,Customer 803,Corporate,East,Boston,2021-01-05
+CUST00804,Customer 804,Consumer,West,Seattle,2023-08-04
+CUST00805,Customer 805,Corporate,West,Los Angeles,2024-02-20
+CUST00806,Customer 806,Consumer,Central,Dallas,2022-08-21
+CUST00807,Customer 807,Consumer,Central,Dallas,2024-05-31
+CUST00808,Customer 808,Consumer,East,New York,2022-06-04
+CUST00809,Customer 809,Consumer,East,New York,2021-11-27
+CUST00810,Customer 810,Home Office,Central,Dallas,2021-09-29
+CUST00811,Customer 811,Consumer,Central,Houston,2024-01-19
+CUST00812,Customer 812,Consumer,West,Los Angeles,2021-10-01
+CUST00813,Customer 813,Consumer,Central,Dallas,2021-06-03
+CUST00814,Customer 814,Corporate,East,New York,2021-05-05
+CUST00815,Customer 815,Home Office,South,Miami,2023-04-28
+CUST00816,Customer 816,Corporate,South,Miami,2021-12-28
+CUST00817,Customer 817,Corporate,West,San Francisco,2023-04-13
+CUST00818,Customer 818,Corporate,West,Seattle,2021-04-03
+CUST00819,Customer 819,Consumer,West,Seattle,2024-03-25
+CUST00820,Customer 820,Corporate,East,Boston,2023-05-22
+CUST00821,Customer 821,Corporate,South,Charlotte,2023-03-01
+CUST00822,Customer 822,Consumer,West,San Francisco,2024-04-11
+CUST00823,Customer 823,Consumer,East,Philadelphia,2022-10-29
+CUST00824,Customer 824,Consumer,South,Miami,2022-08-28
+CUST00825,Customer 825,Corporate,West,Los Angeles,2024-10-14
+CUST00826,Customer 826,Consumer,West,Seattle,2022-11-16
+CUST00827,Customer 827,Corporate,East,Philadelphia,2024-01-11
+CUST00828,Customer 828,Consumer,Central,Dallas,2021-06-03
+CUST00829,Customer 829,Consumer,South,Atlanta,2021-11-11
+CUST00830,Customer 830,Consumer,East,Boston,2024-05-01
+CUST00831,Customer 831,Home Office,East,New York,2023-01-03
+CUST00832,Customer 832,Corporate,West,San Francisco,2022-10-23
+CUST00833,Customer 833,Corporate,West,San Francisco,2024-02-07
+CUST00834,Customer 834,Home Office,West,San Francisco,2021-06-03
+CUST00835,Customer 835,Consumer,South,Charlotte,2023-05-24
+CUST00836,Customer 836,Consumer,South,Miami,2021-08-09
+CUST00837,Customer 837,Consumer,East,Philadelphia,2023-07-13
+CUST00838,Customer 838,Consumer,Central,Dallas,2021-09-28
+CUST00839,Customer 839,Consumer,South,Charlotte,2024-07-27
+CUST00840,Customer 840,Consumer,South,Atlanta,2022-06-20
+CUST00841,Customer 841,Consumer,Central,Chicago,2022-03-09
+CUST00842,Customer 842,Consumer,West,San Francisco,2023-05-27
+CUST00843,Customer 843,Consumer,East,Boston,2022-11-12
+CUST00844,Customer 844,Consumer,East,Boston,2024-09-11
+CUST00845,Customer 845,Home Office,East,Philadelphia,2024-01-14
+CUST00846,Customer 846,Consumer,West,San Francisco,2021-12-08
+CUST00847,Customer 847,Home Office,Central,Dallas,2022-02-24
+CUST00848,Customer 848,Home Office,Central,Houston,2021-11-02
+CUST00849,Customer 849,Corporate,South,Charlotte,2021-07-25
+CUST00850,Customer 850,Consumer,East,Philadelphia,2022-05-19
+CUST00851,Customer 851,Consumer,Central,Chicago,2021-09-29
+CUST00852,Customer 852,Consumer,East,Boston,2021-02-01
+CUST00853,Customer 853,Corporate,East,New York,2023-09-04
+CUST00854,Customer 854,Consumer,South,Miami,2023-02-24
+CUST00855,Customer 855,Consumer,Central,Chicago,2023-07-06
+CUST00856,Customer 856,Corporate,West,San Francisco,2022-07-17
+CUST00857,Customer 857,Home Office,West,Seattle,2021-04-14
+CUST00858,Customer 858,Consumer,East,Boston,2023-10-22
+CUST00859,Customer 859,Consumer,East,New York,2021-11-09
+CUST00860,Customer 860,Corporate,East,New York,2021-03-14
+CUST00861,Customer 861,Consumer,West,Los Angeles,2024-09-22
+CUST00862,Customer 862,Corporate,Central,Houston,2021-04-19
+CUST00863,Customer 863,Consumer,South,Charlotte,2024-01-29
+CUST00864,Customer 864,Corporate,Central,Dallas,2022-01-04
+CUST00865,Customer 865,Home Office,East,Boston,2023-04-06
+CUST00866,Customer 866,Home Office,Central,Houston,2022-12-29
+CUST00867,Customer 867,Corporate,Central,Chicago,2023-09-20
+CUST00868,Customer 868,Consumer,South,Miami,2021-10-10
+CUST00869,Customer 869,Consumer,West,Seattle,2022-10-21
+CUST00870,Customer 870,Consumer,West,Seattle,2024-01-18
+CUST00871,Customer 871,Consumer,East,Philadelphia,2024-10-31
+CUST00872,Customer 872,Consumer,South,Charlotte,2024-05-14
+CUST00873,Customer 873,Corporate,Central,Houston,2022-08-18
+CUST00874,Customer 874,Consumer,Central,Chicago,2021-04-23
+CUST00875,Customer 875,Consumer,East,New York,2024-07-30
+CUST00876,Customer 876,Home Office,West,Los Angeles,2022-07-23
+CUST00877,Customer 877,Corporate,South,Charlotte,2023-11-23
+CUST00878,Customer 878,Consumer,West,San Francisco,2022-12-27
+CUST00879,Customer 879,Consumer,West,San Francisco,2022-03-28
+CUST00880,Customer 880,Corporate,South,Charlotte,2021-08-03
+CUST00881,Customer 881,Consumer,East,Boston,2023-01-30
+CUST00882,Customer 882,Consumer,South,Charlotte,2022-12-15
+CUST00883,Customer 883,Consumer,South,Atlanta,2021-07-21
+CUST00884,Customer 884,Home Office,East,New York,2024-09-03
+CUST00885,Customer 885,Consumer,West,Los Angeles,2024-05-12
+CUST00886,Customer 886,Corporate,East,Boston,2024-09-30
+CUST00887,Customer 887,Corporate,Central,Dallas,2021-06-15
+CUST00888,Customer 888,Corporate,South,Charlotte,2021-08-07
+CUST00889,Customer 889,Home Office,East,Philadelphia,2022-07-07
+CUST00890,Customer 890,Corporate,East,Philadelphia,2022-01-02
+CUST00891,Customer 891,Corporate,West,Seattle,2024-03-03
+CUST00892,Customer 892,Corporate,East,New York,2024-10-07
+CUST00893,Customer 893,Consumer,Central,Houston,2022-05-23
+CUST00894,Customer 894,Consumer,East,Philadelphia,2024-03-23
+CUST00895,Customer 895,Corporate,West,San Francisco,2022-10-24
+CUST00896,Customer 896,Consumer,South,Atlanta,2023-05-18
+CUST00897,Customer 897,Corporate,Central,Chicago,2023-05-31
+CUST00898,Customer 898,Home Office,West,Los Angeles,2024-04-02
+CUST00899,Customer 899,Consumer,South,Miami,2024-06-14
+CUST00900,Customer 900,Corporate,Central,Dallas,2021-06-25
